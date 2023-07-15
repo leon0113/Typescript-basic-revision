@@ -7,4 +7,4 @@ const user: {
         name : 'Leon',
         age: 24,
         wife: 'nai',
-}
+};
